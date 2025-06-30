@@ -34,7 +34,7 @@ To run the app locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Vanessa-Fazzio/Code-Challenge-1.git
+ 
 
 cd Code-Challenge-1
 
